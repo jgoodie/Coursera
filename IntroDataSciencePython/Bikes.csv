@@ -1,0 +1,13 @@
+,Bike,Type,Manufacturer,Price,Rating
+0,0,Mountain,A,400,8
+1,1,Mountain,A,600,9
+2,2,Road,A,400,4
+3,3,Road,A,450,4
+4,4,Mountain,B,300,6
+5,5,Mountain,B,250,5
+6,6,Road,B,400,4
+7,7,Road,B,500,6
+8,8,Mountain,C,400,5
+9,9,Mountain,C,500,6
+10,10,Road,C,800,9
+11,11,Road,C,950,10
